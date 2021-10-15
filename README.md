@@ -1,4 +1,5 @@
 # KidDrawingApp
+ this is a sample to create an android drawing
  
 ![Screenshot_20210916-070519](https://user-images.githubusercontent.com/39423180/133559762-030701bc-2c81-4877-bf89-07e167bde71b.png)
 ![Screenshot_20210916-070531](https://user-images.githubusercontent.com/39423180/133559792-0f3c1bf0-d799-4ce0-b68d-8614254b78a7.png)
